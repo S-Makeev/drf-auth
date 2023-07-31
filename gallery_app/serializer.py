@@ -3,5 +3,5 @@ from.models import GalleryInfo
 
 class GallerySerializer(serializers.ModelSerializer):
     class Meta:
-        fields = ('id', 'owner', 'artist', 'restored', 'description' 'created_at')
+        fields = ('id', 'owner', 'artist', 'restored', 'description', 'created_at')
         model = GalleryInfo
