@@ -29,9 +29,9 @@ How do you run tests?
  
 {
 
-    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MDUwMzg0NiwiaWF0IjoxNjkwNDE3NDQ2LCJqdGkiOiI4OGMwZDM1NGIzZWQ0YzZlYTY3OTA4OTU2OTBjZmJiNSIsInVzZXJfaWQiOjF9.9hWx774f8asg4edjwflBXUasKI4dFaRx8MeadNadEKA",
+    "refresh": <YOUR TOKEN>
 
-    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjkwNDE3NzQ2LCJpYXQiOjE2OTA0MTc0NDYsImp0aSI6ImYzMGRlNTY0ZDYyNzQyN2RhOTZkMzMyZjgyYWJmY2ZhIiwidXNlcl9pZCI6MX0.k9TUDbvEjQ553vM6aWwvBlUk6SYqJQ_RbCB2ZTP_XSY"
+    "access": <YOUR TOKEN>
 }
 
 ### DB URL:
